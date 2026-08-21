@@ -12,6 +12,7 @@ MODE_SWITCH = "switch"
 MODE_SERIAL = "serial"
 MODE_ESPHOME = "esphome"
 MODE_SIMULATOR = "simulator"
+MODE_EBUSD = "ebusd"
 
 DEADBAND = 0.1
 HEATER_STARTUP_TIMEFRAME = 180
